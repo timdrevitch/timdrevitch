@@ -14,7 +14,7 @@ peer tutor throughout undergrad.
 - React.js, Node.js, MongoDB, Mongoose, Express.js
 - MySQL/MySQLworkbench, Insomnia, Axios, Styled Components
 - Xcode, VScode, Heroku, GitHub, Concurrently, Nodemon
-- Dotenv, Google Oauth, Unity, Unreal
+- Dotenv, Google Oauth, Unity, Unreal, Bubble.io
 
 # 🧑‍💻 Languages
 - Html, Css, Javascript, Java
