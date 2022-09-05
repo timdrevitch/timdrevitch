@@ -17,7 +17,7 @@ peer tutor throughout undergrad.
 - Dotenv, Google Oauth, Unity, Unreal, Bubble.io
 
 # 🧑‍💻 Languages
-- Html, Css, Javascript, Java
+- Html, Css, Javascript, Java, Typescript
 - Swift, SQL, Json, Md, C#, C++
 
 # 📫 How to reach me ...
