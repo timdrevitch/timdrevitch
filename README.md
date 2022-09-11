@@ -23,4 +23,4 @@ peer tutor throughout undergrad.
 # 📫 How to reach me ...
 - Email: timdrevitch@gmail.com
 - Twitter: @TimDrevitchDev
-
+- LinkedIn: https://www.linkedin.com/in/tim-drevitch-43016719b
