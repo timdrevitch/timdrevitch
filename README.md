@@ -8,7 +8,7 @@ Game Development from Worcester Polytechnic Institute.
 - I’m currently working at Vangarden LLC as a Full-Stack Software Engineer
 building software like front-to-back web applications.
 - I have made several IOS native applications and was a Computer Science
-peer tutor throughout undergrad.
+paid peer tutor throughout undergrad.
 
 # 💻 Technologies
 - React.js, Node.js, MongoDB, Mongoose, Express.js
