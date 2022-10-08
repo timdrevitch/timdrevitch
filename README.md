@@ -17,8 +17,7 @@ paid peer tutor throughout undergrad.
 - Dotenv, Google Oauth, Unity, Unreal, Bubble.io
 
 # 🧑‍💻 Languages
-- Html, Css, Javascript, Java, Typescript
-- Swift, SQL, Json, Md, C#, C++
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timdrevitch&theme=tokyonight)
 
 # 📫 How to reach me ...
 - Email: timdrevitch@gmail.com
