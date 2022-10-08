@@ -16,7 +16,6 @@ paid peer tutor throughout undergrad.
 - Xcode, VScode, Heroku, GitHub, Concurrently, Nodemon
 - Dotenv, Google Oauth, Unity, Unreal, Bubble.io
 
-# 🧑‍💻 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timdrevitch&theme=tokyonight)
 
 # 📫 How to reach me ...
