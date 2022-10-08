@@ -32,7 +32,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="Swift" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/ios/344/markdown--v1.png" alt="MD" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png" alt="MD" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/ios-filled/344/markdown.png" alt="MD" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="C#" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="Bash" height="40" style="vertical-align:top; margin:4px">
