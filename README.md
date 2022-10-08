@@ -10,9 +10,9 @@
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/344/heroku.png" alt="Heroku" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" alt="Xcode" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="Unity" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal/unreal.png" alt="Unreal" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/axios/axios.png" alt="Axios" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/nolan/344/unity.png" alt="Unity" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/nolan/344/unreal-engine.png" alt="Unreal" height="40" style="vertical-align:top; margin:4px">
+<img src="https://static.axios.com/img/axios-icon.png" alt="Axios" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" alt="styled-components" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color-glass/344/github--v1.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
