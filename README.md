@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Tim
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=timdrevitch&langs_count=10&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=timdrevitch&show_icons=true&theme=tokyonight)
 
 ## Technologies
 <p align="left">
@@ -38,7 +38,7 @@
  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="Bash" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timdrevitch&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timdrevitch&langs_count=10&layout=compact&theme=tokyonight)
 
 ## How to reach me ...
 - Email: timdrevitch@gmail.com
