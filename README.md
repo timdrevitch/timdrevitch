@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Tim
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=timdrevitch&show_icons=true&theme=tokyonight&card_width=550)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=timdrevitch&show_icons=true&theme=tokyonight&card_width=450)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timdrevitch&langs_count=10&layout=compact&theme=tokyonight&hide=C,ASP.NET,ShaderLab,HLSL,Objective-C%2B%2B,CMake&card_width=400)
 
 ## Technologies
 <p align="left">
@@ -38,7 +39,6 @@
  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="Bash" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timdrevitch&langs_count=10&layout=compact&theme=tokyonight&hide=C,ASP.NET,ShaderLab,HLSL,Objective-C%2B%2B,CMake&card_width=500)
 
 ## How to reach me ...
 - Email: timdrevitch@gmail.com
