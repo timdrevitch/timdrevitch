@@ -38,7 +38,7 @@
  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="Bash" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timdrevitch&langs_count=10&layout=compact&theme=tokyonight&hide=C,ASP.NET,ShaderLab,HLSL,ObjectiveC++)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timdrevitch&langs_count=10&layout=compact&theme=tokyonight&hide=C,ASP.NET,ShaderLab,HLSL,Objective-C%2B%2B)
 
 ## How to reach me ...
 - Email: timdrevitch@gmail.com
