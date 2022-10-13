@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Tim
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=timdrevitch&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=timdrevitch&langs_count=10&show_icons=true&theme=tokyonight)
 
 ## Technologies
 <p align="left">
