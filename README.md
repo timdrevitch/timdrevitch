@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tim
+# Tim Drevitch
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=timdrevitch&show_icons=true&theme=tokyonight&card_width=350&custom_title=My%20GitHub%20Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timdrevitch&langs_count=10&layout=compact&theme=tokyonight&hide=Procfile,C,ASP.NET,ShaderLab,HLSL,Objective-C%2B%2B,CMake&card_width=300&custom_title=My%20Top%20Used%20GitHub%20Languages)
 
@@ -42,5 +42,6 @@
 
 ## How to reach me ...
 - Email: timdrevitch@gmail.com
+- Website: https://timdrevitch.com
 - Twitter: @TimDrevitchDev
 - LinkedIn: https://www.linkedin.com/in/tim-drevitch-43016719b
