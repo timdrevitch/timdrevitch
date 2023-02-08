@@ -41,7 +41,6 @@
  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="Bash" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-
 ## How to reach me ...
 - Email: timdrevitch@gmail.com
 - Website: https://timdrevitch.com
