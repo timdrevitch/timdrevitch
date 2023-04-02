@@ -5,6 +5,7 @@
 ## Technologies
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" alt="ReactNative" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/nolan/344/express-js.png" alt="Express" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/fluency/344/mysql-logo.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
@@ -23,6 +24,8 @@
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg" alt="GoogleOAuth2" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/office/344/java-eclipse.png" alt="Eclipse" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/nolan/344/apple-app-store--v2.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
