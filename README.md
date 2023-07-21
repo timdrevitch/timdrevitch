@@ -1,6 +1,5 @@
 # Tim Drevitch
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=timdrevitch&show_icons=true&theme=tokyonight&card_width=350&custom_title=My%20GitHub%20Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timdrevitch&langs_count=10&layout=compact&theme=tokyonight&hide=Procfile,C,ASP.NET,ShaderLab,HLSL,Objective-C%2B%2B,CMake&card_width=350&custom_title=My%20Top%20Used%20GitHub%20Languages)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=timdrevitch&show_icons=true&theme=tokyonight&card_width=1000&custom_title=My%20GitHub%20Stats)
 
 ## Technologies
 <p align="left">
@@ -43,6 +42,8 @@
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="C#" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="Bash" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timdrevitch&langs_count=10&layout=compact&theme=tokyonight&hide=ShaderLab,HLSL,CMake&card_width=1000&custom_title=My%20Top%20Used%20GitHub%20Languages)
 
 ## How to reach me ...
 - Email: timdrevitch@gmail.com
