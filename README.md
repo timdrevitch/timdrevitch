@@ -49,5 +49,5 @@
 - Email: timdrevitch@gmail.com
 - Website: https://timdrevitch.com
 - Twitter: @TimDrevitchDev
-- LinkedIn: https://www.linkedin.com/in/tim-drevitch-43016719b
+- LinkedIn: https://www.linkedin.com/in/timdrevitch
 
