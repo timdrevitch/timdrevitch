@@ -42,7 +42,8 @@
 <img src="https://img.icons8.com/officel/344/markdown.png" alt="MD" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="C#" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="Bash" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="Bash" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timdrevitch&langs_count=10&layout=compact&theme=tokyonight&hide=ShaderLab,HLSL,CMake&card_width=1000&custom_title=My%20Top%20Used%20GitHub%20Languages)
