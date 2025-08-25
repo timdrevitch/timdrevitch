@@ -32,18 +32,18 @@
 
 ## Languages
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="Swift" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img.icons8.com/officel/344/markdown.png" alt="MD" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="C#" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="Bash" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="40" height="40" style="margin:4px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="40" height="40" style="margin:4px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40" style="margin:4px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40" style="margin:4px"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" width="40" height="40" style="margin:4px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="Swift" width="40" height="40" style="margin:4px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" width="40" height="40" style="margin:4px"/>
+<img src="https://img.icons8.com/officel/344/markdown.png" alt="Markdown" width="40" height="40" style="margin:4px"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="C++" width="40" height="40" style="margin:4px"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="C#" width="40" height="40" style="margin:4px"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python" width="40" height="40" style="margin:4px"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="Bash" width="40" height="40" style="margin:4px"/>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timdrevitch&langs_count=10&layout=compact&theme=tokyonight&hide=ShaderLab,HLSL,CMake&card_width=1000&custom_title=My%20Top%20Used%20GitHub%20Languages)
